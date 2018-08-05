@@ -19,7 +19,6 @@
 *.tar.gz
 *.rar
 
-
 .metadata
 bin/
 tmp/
